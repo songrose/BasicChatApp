@@ -1,0 +1,27 @@
+{
+  "name": "wsserver",
+  "version": "1.0.0",
+  "description": "clientServer Presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songrose/BasicChatApp"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songrose/BasicChatApp/issues"
+  },
+  "homepage": "https://github.com/songrose/BasicChatApp#readme",
+  "dependencies": {
+    "node":"10.16.3",
+    "ws": "^7.1.2"
+  }
+}
